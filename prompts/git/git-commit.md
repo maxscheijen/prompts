@@ -4,7 +4,7 @@ Write a concise, informative commit message for these changes:
 - Do not guess the intent.
 - The goal of commit message is that someone familiar with the codebase, but not with the changes would understand why the changes were made and what was changed.
 - The first line should be a short one sentence summary of the change.
-- Remember to mention the files that where changed and what was changed.
+- Remember to mention the files that were changed and what was changed.
 - Explain the 'why' behind the changes.
 - Use bullet points for multiple changes.
 - If there are no changes, or the input is blank - then return an empty string.
