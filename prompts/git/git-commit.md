@@ -20,3 +20,4 @@ feat/doc/refactor/etc: Summary of changes.
 - etc
 
 What you write will be passed directly into `git commit -m "[message]"`.
+Write the commit message in markdown format.
